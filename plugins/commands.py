@@ -41,7 +41,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ADD ME TO YOUR GROUP ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHANNEL 💠', url='https://t.me/technicalaks1'),
+            InlineKeyboardButton('💠 𝖬𝖮𝖵𝖨𝖤𝖲 💠', url='https://t.me/technicalaks0111'),
             InlineKeyboardButton('💠 UPDATES 💠', url='https://t.me/Imdb_updates')
             ],[      
             InlineKeyboardButton('♻️ HELP ♻️', callback_data='help'),
@@ -85,7 +85,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ADD ME TO YOUR GROUP ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHANNEL 💠', url='https://t.me/technicalaks1'),
+            InlineKeyboardButton('💠 𝖬𝖮𝖵𝖨𝖤𝖲 💠', url='https://t.me/technicalaks0111'),
             InlineKeyboardButton('💠 UPDATES 💠', url='https://t.me/Imdb_updates')
             ],[      
             InlineKeyboardButton('♻️ HELP ♻️', callback_data='help'),
